@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thanathonh
+- 👋 Hi
 - 👀 I’m interested in defi
 - 🌱 I’m currently learning defi
 - 💞️ I’m looking to collaborate on defi
