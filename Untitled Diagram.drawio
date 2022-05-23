@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-23T18:34:55.242Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="nfnhHEMZKPMi2fZMBfoz" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-23T18:36:13.617Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="4zsB1wAGfTVA9x3nJWci" version="18.1.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2104" dy="1504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="2630" dy="1880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -102,7 +102,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="cXx6BBBNVSBuFL7b0Zpu-1" value="NFT Lab 01" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#60a917;fontColor=#ffffff;strokeColor=#2D7600;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="60" y="300" width="110" height="110" as="geometry" />
+          <mxGeometry x="50" y="290" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="cXx6BBBNVSBuFL7b0Zpu-14" value="animal" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="50" y="90" width="120" height="50" as="geometry" />
@@ -357,16 +357,16 @@
           <mxGeometry x="1260" y="80" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r83ZH5j2WeOLkmpceC4A-27" value="Coomunity" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1450" y="80" width="120" height="50" as="geometry" />
+          <mxGeometry x="1420" y="80" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r83ZH5j2WeOLkmpceC4A-28" value="Utility" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1640" y="80" width="120" height="50" as="geometry" />
+          <mxGeometry x="1570" y="80" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r83ZH5j2WeOLkmpceC4A-29" value="Story telling" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1830" y="80" width="120" height="50" as="geometry" />
+          <mxGeometry x="1720" y="80" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r83ZH5j2WeOLkmpceC4A-30" value="Culture" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2030" y="80" width="120" height="50" as="geometry" />
+          <mxGeometry x="1860" y="80" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
