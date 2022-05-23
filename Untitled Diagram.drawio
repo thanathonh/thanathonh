@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-23T19:28:14.202Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="xSH3w6zqVntvS1OS5S1H" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-23T22:22:40.034Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="BK6RMK58rPJLoQzrKNi_" version="18.1.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1169" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="2104" dy="1504" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -320,7 +320,7 @@
         <mxCell id="r83ZH5j2WeOLkmpceC4A-9" value="Job by Job&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="570" y="360" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="r83ZH5j2WeOLkmpceC4A-10" value="Core team" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="r83ZH5j2WeOLkmpceC4A-10" value="Core team % ปลดให้ตาม roadmap ที่สำเร็จ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="720" y="360" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="r83ZH5j2WeOLkmpceC4A-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r83ZH5j2WeOLkmpceC4A-13">
@@ -385,8 +385,10 @@
         <mxCell id="r83ZH5j2WeOLkmpceC4A-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r83ZH5j2WeOLkmpceC4A-44" target="r83ZH5j2WeOLkmpceC4A-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="r83ZH5j2WeOLkmpceC4A-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r83ZH5j2WeOLkmpceC4A-44" target="r83ZH5j2WeOLkmpceC4A-46">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="r83ZH5j2WeOLkmpceC4A-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r83ZH5j2WeOLkmpceC4A-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1180" y="400" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="r83ZH5j2WeOLkmpceC4A-44" value="Dev" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="850" y="410" width="120" height="60" as="geometry" />
@@ -394,7 +396,7 @@
         <mxCell id="r83ZH5j2WeOLkmpceC4A-45" value="Outsource" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="970" y="350" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="r83ZH5j2WeOLkmpceC4A-46" value="Core team" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="r83ZH5j2WeOLkmpceC4A-51" value="Core team % ปลดให้ตาม roadmap ที่สำเร็จ" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1120" y="350" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
